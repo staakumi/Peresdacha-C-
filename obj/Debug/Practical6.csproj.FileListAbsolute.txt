@@ -1,0 +1,2 @@
+C:\Программирование на C#\Practical6\Practical6\obj\Debug\Practical6.csproj.AssemblyReference.cache
+C:\Программирование на C#\Practical6\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache
